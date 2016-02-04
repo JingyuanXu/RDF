@@ -1,0 +1,29 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://w3c/future-csv-vocab/"
+    xmlns:j.1="file:///Users/xujing/Documents/workspace/csv2/src/riotcmdx/test11.csv#">
+  <rdf:Description>
+    <j.1:address>13th</j.1:address>
+    <j.1:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >463256533</j.1:phone>
+    <j.1:line rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >45</j.1:line>
+    <j.1:row rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >23</j.1:row>
+    <j.1:name>d</j.1:name>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >2</j.0:row>
+  </rdf:Description>
+  <rdf:Description>
+    <j.1:address>7th</j.1:address>
+    <j.1:phone rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >4563234</j.1:phone>
+    <j.1:line rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >11</j.1:line>
+    <j.1:row rdf:datatype="http://www.w3.org/2001/XMLSchema#double"
+    >12</j.1:row>
+    <j.1:name>s</j.1:name>
+    <j.0:row rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >1</j.0:row>
+  </rdf:Description>
+</rdf:RDF>
